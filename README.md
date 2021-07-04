@@ -78,7 +78,7 @@ This would require the addition of jQuery to be added and would make our site a 
 * **Pagination** - 
 When new data is added to the data.js file, there may be a time where there are too many entries in the table to display neatly. One option to fix this issue in the front end is to add pagination:<br>
 https://getbootstrap.com/docs/4.0/components/pagination/<br>
-Note: the above page only shows how to add pagination links to to the page (html/css). <br>The JS code in app.js would need to be updated is only display a certain number of results. Then, as the next page number is clicked, the current HTML table would need to be cleared, and the next range of results would be displayed (based on page number).<br>
+Note: the above page only shows how to add pagination links to to the page (html/css). <br>The JS code in app.js would need to be updated to only display a certain number of results. Then, as the next page number is clicked, the current HTML table would need to be cleared, and the next range of results would be displayed (based on page number).<br>
 IE  - On page 1, display results 1-50. On page 2, display results 51 - 100, etc.
 
 * **Export to CSV** - 
