@@ -37,7 +37,7 @@ Enter the full name of a city. The city name must spelt correctly.
 
 ### Filtering by State 
 
-Enter the abbrievated name of a state. The state name must match a name in the United States as at this point in time, the dataset only contains data from the United States. All entries are converted to lower case, so this is not case sensitive.
+Enter the abbrievated name of a state. The state name must match a name in the United States. The dataset only contains data from the United States. All entries are converted to lower case, so this is not case sensitive.
 
 ### Filtering by Country
 
